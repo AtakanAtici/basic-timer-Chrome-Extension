@@ -1,5 +1,5 @@
 # basic-timer-Chrome-Extension
-basic timer for Chrome Extension
+basic timer extension for Chrome
 
 Codepen: https://codepen.io/atakanatici-the-sans/pen/jOygVqV
 
