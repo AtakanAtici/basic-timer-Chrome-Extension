@@ -1,0 +1,14 @@
+{
+
+	"name": "Basic Timer",
+	"description": "basic timer for Chrome",
+	"version": "1",
+	"manifest_version": 2,
+	"browser_action":
+	{
+		"default_title":"Basic Timer",
+		"default_icon" :"logo.png",
+		"default_popup":"timer.html"
+	},
+	"icons":{"128": "logo.png"}
+}
